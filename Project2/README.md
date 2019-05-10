@@ -8,7 +8,6 @@ Compline and run:
 python Project2.py
 ```
 
-***
 Problems with parsing markets' websites:
 1) Did not manage to insert parsed data to database. There are lots of invalid results come from parsing (for example, letter and number are set in chaos order). 
 2) There is also problem with languages. It store in russian language, but the app shows some sings, symbols etc.
