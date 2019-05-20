@@ -1,2 +1,2 @@
-# com-210
+# com.210
 Database principles course projects
